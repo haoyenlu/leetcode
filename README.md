@@ -1,2 +1,2 @@
 # leetcode
-![image](https://user-images.githubusercontent.com/74141558/220450478-9e26fc95-8f2f-441f-af95-01a3db70ecc8.png)
+![image](https://user-images.githubusercontent.com/74141558/220450752-cbea91e9-9941-41ae-a003-f3d8ae28d6ac.png)
